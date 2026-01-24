@@ -1,10 +1,10 @@
 {
-  "current_version": "3.5.1",
+  "current_version": "3.5.2",
   "minimum_version": "3.0.0",
   "update_url_ios": "https://apps.apple.com/us/app/leenbaby/id6748906892",
   "update_url_android": "https://play.google.com/store/apps/details?id=com.algorithma.leenbaby",
-  "update_message": "New features and improvements available!",
-  "update_message_ar": "ميزات وتحسينات جديدة متاحة!",
+  "update_message": "Added Malaysian vaccine schedule and updated the USA - CDC vaccine schedule.",
+  "update_message_ar": "تمت إضافة جدول التطعيم الماليزي وتحديث جدول التطعيم الأمريكي - CDC.",
   "force_update": false,
   "features": {
     "claude_haiku_4_5": true
