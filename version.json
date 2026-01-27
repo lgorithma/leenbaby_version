@@ -6,7 +6,5 @@
   "update_message": "Minor enhancements.",
   "update_message_ar": "تحسينات طفيفة.",
   "force_update": false,
-  "features": {
-    "claude_haiku_4_5": true
-  }
+  "feature_flags_note": "To add feature flags later, add a \"features\" object like {\"flag_name\": true} and update the app to parse and use it."
 }
