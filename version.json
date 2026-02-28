@@ -1,10 +1,10 @@
 {
-  "current_version": "3.5.3",
+  "current_version": "3.6.1",
   "minimum_version": "3.0.0",
   "update_url_ios": "https://apps.apple.com/us/app/leenbaby/id6748906892",
   "update_url_android": "https://play.google.com/store/apps/details?id=com.algorithma.leenbaby",
-  "update_message": "Minor enhancements.",
-  "update_message_ar": "تحسينات طفيفة.",
+  "update_message": "New: zodiac signs on the age screen.",
+  "update_message_ar": "جديد: الأبراج على شاشة العمر.",
   "force_update": false,
   "feature_flags_note": "To add feature flags later, add a \"features\" object like {\"flag_name\": true} and update the app to parse and use it."
 }
